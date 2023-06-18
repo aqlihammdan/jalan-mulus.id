@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/*
+    Login
+*/
+
+.login {
+    padding-top: 2em;
+    padding-bottom: 9em;
+}
+
+
+
+/*
+    Home
+*/
+
+.sign-in {
+    background-color: blue;
+    
+}
+
+.sign-up {
+    border: 1px;
+    border-style:solid;
+    border-color: blue;
+}
+
+.sign-in__link{
+    text-decoration: none;
+    color: white;
+}
+
+.sign-up__link{
+    text-decoration: none;
+    color: black;
+}
+
+
+.step-1, .step-2, .step-3, .step-4, .step-5{
+    height: 100px;
+    width: 100px;
+    margin-top: 8em;
+}
+
+.step-1__caption, .step-2__caption, .step-3__caption, .step-4__caption, .step-5__caption{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+}
+
+.how-make__report__caption{
+    margin-bottom: 15rem;
+}
+
+
+.make-report{
+    width: 50%;
+    background-color: blue;
+    height: 10px;
+}
+
+.form-report {
+    width: 50%;
+    background-color: white;
+    margin-top: 4em;
+    padding: 4em;
+}
+
+.form-control{
+    margin-bottom: 1em;
+    padding: 4px;
+}
+
+.label-form, .choose-radio{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+
+.report-information{
+    margin-top: 8em;
+    padding: 8em;
+}
+
+.about {
+    margin-top: 50px;
+}
+
+
+
+footer{
+    margin-top: 8em;
+
+}
+
+
+
