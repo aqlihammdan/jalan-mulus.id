@@ -9,7 +9,7 @@
             <div class="d-flex justify-content-center align-items-center h-100">
                 <div class="text-white">
                     <h1 class="mb-3">Jalanmulus.id</h1>
-                    <h4 class="mb-4">Adukan Keluah Anda Kepada Kami</h4>
+                    <h4 class="mb-4">Adukan Keluhan Anda Kepada Kami</h4>
                     <a class="btn bg-primary text-white btn-lg" href="#form-report" role="button">Buat Laporan</a>
                 </div>
             </div>
@@ -59,7 +59,7 @@
 
     <!-- Buat Laporan !-->
     <span class="d-block p-3 text-bg-primary text-center font-weight-bold fs-5 shadow p-3 mb-5">Buat Laporan</span>
-    <form class="form-report mx-auto rounded shadow-lg">
+    <form id="form-report" class="form-report mx-auto rounded shadow-lg">
         <div class="col">
             <label for="name" class="label-form">Nama</label>
             <input type="text" class="form-control py-2" placeholder="Nama Lengkap">
