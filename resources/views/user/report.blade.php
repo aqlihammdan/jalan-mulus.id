@@ -1,6 +1,6 @@
 <x-app-layout>
     <div class="container">
-        <a href="/report/show">
+        <a href="/user/show">
         <div class="card mt-3">
             <div class="card-body">
                 <div class="row">
