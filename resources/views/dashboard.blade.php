@@ -1,4 +1,6 @@
 <x-app-layout>
+
+    <link rel="stylesheet" href="/style/style.css">
     <!-- Jumbotron !-->
 
     <div class="p-5 text-center bg-image" style="
