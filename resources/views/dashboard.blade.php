@@ -61,7 +61,7 @@
 
 
     <!-- Buat Laporan !-->
-    <span class="d-block p-3 text-bg-primary text-center font-weight-bold fs-5 shadow p-3 mb-5">Buat Laporan</span>
+    <span class="d-block p-3 text-bg-primary text-center font-weight-bold fs-5 shadow p-3 mb-3">Buat Laporan</span>
     <form id="form-report" class="form-report mx-auto rounded shadow-lg">
         <div class="col">
             <label for="name" class="label-form">Nama</label>
@@ -106,16 +106,14 @@
                 </label>
             </div>
         </div>
-
-        <div class="d-grid gap-2 col-6 mx-auto mt-5">
-            <button class="btn btn-primary" type="button">Submit</button>
-        </div>
+        <a href="#" class="btn btn-danger d-grid gap-2 col-6 mx-auto mt-5">Submit</a>
     </form>
     <!-- Buat Laporan !-->
 
     <!-- Informasi Laporan !-->
-    <div class="report-information w-100 d-block text-bg-primary text-center fs-5">
-        <h1 class="">Laporan Pengaduan</h1>
-        <span>234243242342423</span>
+    <div class="report-information w-100 d-block text-bg-primary text-center p-5">
+        <h1 class="fs-4">Laporan Pengaduan</h1>
+        <br>
+        <p class="fs-1">134.459.931</p>
     </div>
 </x-app-layout>
