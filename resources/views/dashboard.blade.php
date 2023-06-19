@@ -1,4 +1,6 @@
 <x-app-layout>
+
+    <link rel="stylesheet" href="/style/style.css">
     <!-- Jumbotron !-->
 
     <div class="p-5 text-center bg-image" style="
@@ -10,7 +12,7 @@
                 <div class="text-white">
                     <h1 class="mb-3">Jalanmulus.id</h1>
                     <h4 class="mb-4">Adukan Keluah Anda Kepada Kami</h4>
-                    <a class="btn bg-primary text-white btn-lg" href="#form-report" role="button">Buat Laporan</a>
+                    <a class="btn bg-primary text-white btn-lg font-semibold " href="#form-report" role="button">Buat Laporan</a>
                 </div>
             </div>
         </div>
